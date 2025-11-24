@@ -1,0 +1,76 @@
+syntax = "proto3";
+
+option csharp_namespace = "GRPCAPI.Protos";
+
+
+import "google/protobuf/empty.proto";
+import "google/api/annotations.proto";
+
+package product;
+
+message Product{
+	int32 id =1;
+	string name = 2;
+	string description =3 ;
+	double price = 4 ;
+}
+
+message GetProductRequest{
+	int32 id =1;
+}
+
+message ProductListResponse{
+	repeated Product products =1;
+}
+
+message CreatProductRequest{
+	string name = 1;
+	string description = 2;
+	double price = 3;
+}
+
+message UpdateProductRequest{
+	int32 id =1;
+	string name =2;
+	string description = 3;
+	double price = 4;
+}
+
+message DeleteProductRequest{
+	int32 id =1;
+}
+
+service ProductProtoService{
+	rpc GetProduct(GetProductRequest) returns(Product)
+	{
+		option (google.api.http) = {
+			get: "/product/{id}"
+		};
+	}
+	rpc ListProduct(google.protobuf.Empty) returns(ProductListResponse)
+	{
+		option (google.api.http) = {
+			get: "/api/product"
+		};
+	}
+	rpc CreatProduct(CreatProductRequest) returns(Product)
+	{
+		option (google.api.http) = {
+			post: "/api/product"
+			body: "*"
+		};
+	}
+	rpc UpdateProduct(UpdateProductRequest) returns(Product)
+	{
+		option (google.api.http) = {
+			put: "/api/product"
+			body: "*"
+		};
+	}
+	rpc DeleteProduct(DeleteProductRequest) returns(google.protobuf.Empty)
+	{
+		option (google.api.http) = {
+			delete: "/product/{id}"
+		};
+	}
+}

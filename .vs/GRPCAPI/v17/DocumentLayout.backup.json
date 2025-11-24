@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\grpcapi\\google\\api\\annotations.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|solutionrelative:google\\api\\annotations.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\grpcapi\\grpcapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|solutionrelative:grpcapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C39C79C-CDE3-417A-B3C0-E6BB25AEC312}|..\\ConsoleApp\\ConsoleApp.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\grpcapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C39C79C-CDE3-417A-B3C0-E6BB25AEC312}|..\\ConsoleApp\\ConsoleApp.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\consoleapp\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C39C79C-CDE3-417A-B3C0-E6BB25AEC312}|..\\ConsoleApp\\ConsoleApp.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\grpcapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\grpcapi\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|solutionrelative:protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|d:\\onedrive\\desktop\\asp project lp-2777\\crud\\grpcapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07106DA9-0E49-4C97-A3C4-68942A5DFF2E}|GRPCAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\obj\\Debug\\net8.0\\Protos\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Protos\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GRPCAPI",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\GRPCAPI.csproj",
+              "RelativeDocumentMoniker": "GRPCAPI.csproj",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\GRPCAPI.csproj",
+              "RelativeToolTip": "GRPCAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T12:32:07.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "product.proto",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\ConsoleApp\\Protos\\product.proto",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\Protos\\product.proto",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\ConsoleApp\\Protos\\product.proto",
+              "RelativeToolTip": "..\\ConsoleApp\\Protos\\product.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-11-21T14:56:47.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T14:48:52.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "product.proto",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\Protos\\product.proto",
+              "RelativeDocumentMoniker": "Protos\\product.proto",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\Protos\\product.proto",
+              "RelativeToolTip": "Protos\\product.proto",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-11-21T09:28:49.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:15:51.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\obj\\Debug\\net8.0\\Protos\\Product.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Protos\\Product.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\obj\\Debug\\net8.0\\Protos\\Product.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Protos\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwC0AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:09:29.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "annotations.proto",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\google\\api\\annotations.proto",
+              "RelativeDocumentMoniker": "google\\api\\annotations.proto",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\google\\api\\annotations.proto",
+              "RelativeToolTip": "google\\api\\annotations.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-11-24T12:36:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp.csproj",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "..\\ConsoleApp\\ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T08:53:37.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:38:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\OneDrive\\Desktop\\ASP Project LP-2777\\CRUD\\GRPCAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-21T09:31:42.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 86,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
